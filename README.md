@@ -1,5 +1,5 @@
 # bostonhousepricing2
-##Software and tools reuirements
+##Software and tools requirements
 1 [Githubaccount]
 2 [Herokuaccount]
 3 [VSCodeIDE]
